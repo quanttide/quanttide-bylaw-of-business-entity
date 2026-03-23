@@ -1,1 +1,1 @@
-# quanttide-bylaw-of-business-entity
+# 量潮科技工作章程
