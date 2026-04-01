@@ -2,6 +2,8 @@
 
 本文档基于 [Google 文档风格指南](https://google.github.io/styleguide/docguide/style.html)，适用于 Git 文档、飞书文档等所有 Markdown 写作场景。
 
+可以直接将本文档作为提示词（system prompt）提供给 AI，要求其按照此规范输出文档。
+
 ## 基本假设
 
 AI 写作时容易出现以下问题：
