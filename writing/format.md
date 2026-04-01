@@ -1,4 +1,4 @@
-# 量潮写作格式章程
+# 量潮科技写作格式章程
 
 本文档基于 [Google 文档风格指南](https://google.github.io/styleguide/docguide/style.html)，适用于 Git 文档、飞书文档等所有 Markdown 写作场景。
 
