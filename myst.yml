@@ -16,15 +16,7 @@ project:
     - ROADMAP.md
   toc:
     - file: README.md
-    - title: 组织制度
-      children:
-        - file: organization/rank/index.md
-        - file: organization/department/deliberation-institution.md
-        - file: organization/position/company-representative.md
-    - title: 人力资源
-      children:
-        - file: human_resources/resignation.md
-    - title: 业务章程
+    - title: 量潮数据
       children:
         - file: qtdata/index.md
         - file: qtdata/business.md
@@ -32,5 +24,14 @@ project:
         - file: qtdata/custom_support.md
         - file: qtdata/project.md
         - file: qtdata/asset.md
+    - title: 组织管理
+      children:
+        - file: organization/rank/index.md
+        - file: organization/department/deliberation-institution.md
+        - file: organization/position/company-representative.md
+    - title: 人力资源
+      children:
+        - file: human_resources/resignation.md
+
 site:
   template: book-theme
