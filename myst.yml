@@ -1,0 +1,36 @@
+version: 1
+project:
+  title: 量潮科技工作章程
+  description: 量潮科技内部章程，涵盖组织制度、人力资源、SLA 框架协议
+  keywords:
+    - 量潮科技
+    - 章程
+    - 组织
+    - 人力资源
+    - SLA
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  exclude:
+    - CHANGELOG.md
+    - ROADMAP.md
+  toc:
+    - file: README.md
+    - title: 组织制度
+      children:
+        - file: organization/rank/index.md
+        - file: organization/department/deliberation-institution.md
+        - file: organization/position/company-representative.md
+    - title: 人力资源
+      children:
+        - file: human_resources/resignation.md
+    - title: 业务章程
+      children:
+        - file: qtdata/index.md
+        - file: qtdata/business.md
+        - file: qtdata/org.md
+        - file: qtdata/custom_support.md
+        - file: qtdata/project.md
+        - file: qtdata/asset.md
+site:
+  template: book-theme
