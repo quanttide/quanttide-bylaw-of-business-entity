@@ -20,8 +20,8 @@ project:
       children:
         - file: qtdata/index.md
         - file: qtdata/org.md
-        - file: qtdata/custom_support.md
         - file: qtdata/project.md
+        - file: qtdata/support.md
         - file: qtdata/asset.md
     - title: 组织管理
       children:
