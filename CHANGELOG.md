@@ -1,5 +1,22 @@
 # Changelog
 
+## v0.3.1 (2026-05-12)
+
+### 新增
+
+- 项目交付章程（qtdata/project.md）
+- 资产管理章程（qtdata/asset.md）
+
+### 变更
+
+- 框架协议重写为工作章程（qtdata/index.md）
+- 岗位架构重构为项目经理、商务经理、数据工程师三类（qtdata/org.md）
+- 客户支持文档重构（qtdata/custom_support.md → support.md）
+
+### 移除
+
+- 移除参考资料、版本信息和维护人信息
+
 ## v0.3.0 (2026-05-11)
 
 ### 新增
