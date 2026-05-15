@@ -35,6 +35,9 @@ project:
     - title: 审计
       children:
         - file: audit/audit.md
+    - title: 议事
+      children:
+        - file: delib/audit.md
 
 site:
   template: book-theme
