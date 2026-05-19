@@ -22,7 +22,7 @@
 │   └── rank.md              #   客户分级章程
 ├── delib/                   # 议事制度
 │   └── audit.md             #   议事审计章程
-├── human_resources/         # 人力资源
+├── human/                   # 人力资源
 │   └── resignation.md       #   离职工作章程
 ├── organization/            # 组织管理
 │   ├── rank/                #   职级管理

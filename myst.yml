@@ -38,7 +38,7 @@ project:
         - file: organization/position/secretary.md
     - title: 人力资源
       children:
-        - file: human_resources/resignation.md
+        - file: human/resignation.md
     - title: 客户管理
       children:
         - file: customer/rank.md
