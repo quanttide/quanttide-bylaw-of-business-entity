@@ -1,13 +1,15 @@
 version: 1
 project:
   title: 量潮科技工作章程
-  description: 量潮科技内部章程，涵盖组织制度、人力资源、SLA 框架协议、审计制度
+  description: 量潮科技内部章程，涵盖组织制度、人力资源、客户管理、商务管理、沟通管理、审计制度
   keywords:
     - 量潮科技
     - 章程
     - 组织
     - 人力资源
-    - SLA
+    - 客户管理
+    - 商务管理
+    - 沟通管理
     - 审计
   authors:
     - name: 量潮科技
@@ -24,20 +26,25 @@ project:
         - file: qtdata/project.md
         - file: qtdata/support.md
         - file: qtdata/asset.md
+        - file: qtdata/audit.md
     - title: 组织管理
       children:
         - file: organization/rank/index.md
         - file: organization/department/deliberation-institution.md
         - file: organization/position/company-representative.md
+        - file: organization/position/secretary.md
     - title: 人力资源
       children:
         - file: human_resources/resignation.md
-    - title: 审计
+    - title: 客户管理
       children:
-        - file: audit/audit.md
-    - title: 议事
+        - file: customer/rank.md
+    - title: 商务管理
       children:
-        - file: delib/audit.md
+        - file: business/quoting.md
+    - title: 沟通管理
+      children:
+        - file: connect/index.md
 
 site:
   template: book-theme
