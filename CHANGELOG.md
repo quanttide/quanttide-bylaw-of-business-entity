@@ -1,5 +1,23 @@
 # Changelog
 
+## v0.4.1 (2026-06-15)
+
+### 新增
+
+- 沟通管理章程（communication/index.md）
+- 客户关系管理章程（customer-relationship.md）
+- 公司秘书章程（secretary.md）
+- 代表资格与产生条款（representative/qualification.md）
+- 商务报价章程（business/quotation.md）
+
+### 变更
+
+- 议事章程升级为正式章程文本，重构结构
+- 客户分级章程重命名，适配文档标准
+- 职级管理章程重构，补充发展身份与完整等级体系
+- 量潮数据审计文档融合为统一审计章程
+- 更新 myst.yml 目录结构
+
 ## v0.4.0 (2026-05-15)
 
 ### 新增
