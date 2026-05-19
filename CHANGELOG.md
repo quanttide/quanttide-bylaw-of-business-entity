@@ -4,9 +4,13 @@
 
 ### 新增
 
-- AGENTS.md 升级为元认知层，去除与 CONTRIBUTING 重复的操作细节
+- 工作章程写作章程（write/bylaw.md），标准化文档结构、格式、语言规范
 - CONTRIBUTING.md 贡献指南，说明目录命名风格
 - README.md 添加项目定位与完整目录结构
+
+### 变更
+
+- AGENTS.md 升级为元认知层，去除与 CONTRIBUTING 重复的操作细节
 
 ## v0.4.1 (2026-06-15)
 
