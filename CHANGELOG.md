@@ -5,6 +5,7 @@
 ### 新增
 
 - 工作章程写作章程（write/bylaw.md），标准化文档结构、格式、语言规范
+- 文档格式标准（docs/format.md），基于 Google 文档风格指南的 Markdown 写作规范
 - CONTRIBUTING.md 贡献指南，说明目录命名风格
 - README.md 添加项目定位与完整目录结构
 

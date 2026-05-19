@@ -51,6 +51,9 @@ project:
     - title: 写作规范
       children:
         - file: write/bylaw.md
+    - title: 文档格式
+      children:
+        - file: docs/format.md
 
 site:
   template: book-theme
