@@ -21,7 +21,7 @@ project:
     - CONTRIBUTING.md
     - AGENTS.md
   toc:
-    - file: README.md
+    - file: index.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
