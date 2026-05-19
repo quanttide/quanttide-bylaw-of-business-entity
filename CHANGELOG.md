@@ -4,7 +4,8 @@
 
 ### 新增
 
-- CONTRIBUTING.md 贡献指南，建立一致的维护规范
+- CONTRIBUTING.md 贡献指南，说明目录命名风格
+- README.md 添加项目定位与完整目录结构
 
 ## v0.4.1 (2026-06-15)
 
