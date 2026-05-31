@@ -45,7 +45,7 @@ project:
         - file: customer/rank.md
     - title: 商务管理
       children:
-        - file: business/quoting.md
+        - file: business/quotation.md
     - title: 沟通管理
       children:
         - file: connect/index.md
