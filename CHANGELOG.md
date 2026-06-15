@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.5.4 (2026-06-15)
+
+### 变更
+
+- 项目质量审计章程（project/audit.md）更名为项目质量章程（project/quality.md），定位从"审计"转为"质量管理"；第一条定义同步调整
+- write/bylaw.md 第十九条新增 quality.md 命名规则
+- myst.yml toc 新增项目质量章节
+
 ## v0.5.3 (2026-05-31)
 
 ### 变更

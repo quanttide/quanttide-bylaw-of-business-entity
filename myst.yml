@@ -40,6 +40,9 @@ project:
       children:
         - file: human/performance.md
         - file: human/resignation.md
+    - title: 项目质量
+      children:
+        - file: project/quality.md
     - title: 客户管理
       children:
         - file: customer/rank.md
