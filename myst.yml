@@ -42,6 +42,7 @@ project:
         - file: human/resignation.md
     - title: 项目
       children:
+        - file: project/index.md
         - file: project/scope.md
         - file: project/quality.md
     - title: 客户管理
