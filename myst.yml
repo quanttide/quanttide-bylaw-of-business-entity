@@ -51,6 +51,7 @@ project:
     - title: 商务管理
       children:
         - file: business/quotation.md
+        - file: business/negotiation.md
     - title: 沟通管理
       children:
         - file: connect/index.md
