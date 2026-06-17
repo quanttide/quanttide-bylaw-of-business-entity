@@ -39,6 +39,7 @@ project:
     - title: 人力资源
       children:
         - file: human/performance.md
+        - file: human/recruitment.md
         - file: human/onboarding.md
         - file: human/resignation.md
     - title: 项目
