@@ -32,7 +32,7 @@ project:
         - file: qtdata/audit.md
     - title: 组织管理
       children:
-        - file: organization/rank/index.md
+        - file: organization/rank.md
         - file: organization/department/deliberation-institution.md
         - file: organization/position/company-representative.md
         - file: organization/position/secretary.md
