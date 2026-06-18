@@ -23,6 +23,10 @@
 ├── delib/                   # 议事制度
 │   └── audit.md             #   议事审计章程
 ├── human/                   # 人力资源
+│   ├── index.md             #   人力资源总纲
+│   ├── performance.md       #   绩效章程
+│   ├── recruitment.md       #   招聘工作章程
+│   ├── onboarding.md        #   入职工作章程
 │   └── resignation.md       #   离职工作章程
 ├── organization/            # 组织管理
 │   ├── rank/                #   职级管理
