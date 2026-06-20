@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [0.6.13] - 2026-06-20
+
+### Added
+
+- devops/release.md：量潮科技发布管理章程（版本号规范、发布状态机、发布流程与纪律）
+- devops/index.md：新增 release.md 入口
+- myst.yml：新增研发运维章节，注册 devops/index.md、code.md、release.md
+
 ## [0.6.12] - 2026-06-20
 
 ### Added
