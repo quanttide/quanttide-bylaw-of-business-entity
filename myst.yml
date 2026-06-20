@@ -73,6 +73,9 @@ project:
         - file: qtcloud/sales.md
         - file: qtcloud/business.md
         - file: qtcloud/share.md
+        - file: qtcloud/market.md
+        - file: qtcloud/customer.md
+        - file: qtcloud/brand.md
 
 site:
   template: book-theme
