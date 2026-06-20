@@ -66,6 +66,7 @@ project:
         - file: docs/format.md
     - title: 量潮云
       children:
+        - file: qtcloud/index.md
         - file: qtcloud/product.md
         - file: qtcloud/devops.md
         - file: qtcloud/data.md

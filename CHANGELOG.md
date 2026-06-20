@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [0.6.11] - 2026-06-20
+
+### Added
+
+- qtcloud/index.md：量潮云主章程，定义章程体系、效力层级、使用原则
+- myst.yml：量潮云目录首位注册 index.md
+
 ## [0.6.10] - 2026-06-20
 
 ### Changed
