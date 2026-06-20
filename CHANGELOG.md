@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [0.6.6] - 2026-06-20
+
+### Added
+
+- qtcloud/devops.md：量潮云 DevOps 章程（发布流程、发布纪律、版本规范）
+- myst.yml：量潮云目录注册 devops.md
+
 ## [0.6.5] - 2026-06-20
 
 ### Added

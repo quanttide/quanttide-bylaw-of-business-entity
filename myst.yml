@@ -67,6 +67,7 @@ project:
     - title: 量潮云
       children:
         - file: qtcloud/product.md
+        - file: qtcloud/devops.md
 
 site:
   template: book-theme
