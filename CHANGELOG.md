@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [0.6.7] - 2026-06-20
+
+### Added
+
+- qtcloud/data.md：量潮云数据工程章程（数据源管理、数据加工、数据契约、数据质量）
+- qtcloud/knowl.md：量潮云知识工程章程（提取规范、分类体系管理、契约与源文档同步）
+- myst.yml：量潮云目录注册 data.md、knowl.md
+
 ## [0.6.6] - 2026-06-20
 
 ### Added

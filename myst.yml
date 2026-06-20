@@ -68,6 +68,8 @@ project:
       children:
         - file: qtcloud/product.md
         - file: qtcloud/devops.md
+        - file: qtcloud/data.md
+        - file: qtcloud/knowl.md
 
 site:
   template: book-theme
