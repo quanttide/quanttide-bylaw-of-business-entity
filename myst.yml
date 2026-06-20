@@ -64,6 +64,9 @@ project:
     - title: 文档格式
       children:
         - file: docs/format.md
+    - title: 量潮云
+      children:
+        - file: qtcloud/product.md
 
 site:
   template: book-theme
