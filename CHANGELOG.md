@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.6.10] - 2026-06-20
+
+### Changed
+
+- CHANGELOG：合并 v0.7.0（share.md 开源管理）、v0.8.0（market.md/customer.md/brand.md）内容至 v0.6.9，撤销独立发布版本
+
 ## [0.6.9] - 2026-06-20
 
 ### Added
