@@ -70,6 +70,7 @@ project:
         - file: qtcloud/devops.md
         - file: qtcloud/data.md
         - file: qtcloud/knowl.md
+        - file: qtcloud/sales.md
 
 site:
   template: book-theme
