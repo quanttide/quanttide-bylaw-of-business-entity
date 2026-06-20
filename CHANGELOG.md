@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [0.6.12] - 2026-06-20
+
+### Added
+
+- qtcloud/media.md：量潮云新媒体章程（双号运营体系、内容生产、平台运营、刊物体系、数据归档）
+- qtcloud/index.md：章程体系新增 media.md 条目
+
 ## [0.6.11] - 2026-06-20
 
 ### Added
