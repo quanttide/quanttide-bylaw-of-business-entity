@@ -71,6 +71,7 @@ project:
         - file: qtcloud/data.md
         - file: qtcloud/knowl.md
         - file: qtcloud/sales.md
+        - file: qtcloud/business.md
 
 site:
   template: book-theme

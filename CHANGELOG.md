@@ -2,12 +2,17 @@
 
 ## [Unreleased]
 
-## [0.6.8] - 2026-06-20
+## [0.6.9] - 2026-06-20
 
 ### Added
 
-- qtcloud/sales.md：量潮云销售管理章程（线索与客户管理、方案与报价、销售工单）
-- myst.yml：量潮云目录注册 sales.md
+- qtcloud/business.md：量潮云定制化方案业务章程（商机与需求、方案与报价、商务谈判、数据与交付）
+- myst.yml：量潮云目录注册 business.md
+
+### Changed
+
+- qtcloud/sales.md：重写为标准方案销售章程，定制化方案相关内容移至 business.md
+- 重新定义适用范围的区分：sales 按套餐定价、business 按商务报价
 
 ## [0.6.7] - 2026-06-20
 
