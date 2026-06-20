@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.3] - 2026-06-20
+
+### Changed
+
+- qtcloud/share.md：许可证默认值修正——文档 CC-BY-4.0、代码 Apache-2.0、数据 CC-BY-4.0
+
 ## [0.7.2] - 2026-06-20
 
 ### Changed
