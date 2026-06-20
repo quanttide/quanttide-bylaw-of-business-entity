@@ -2,22 +2,16 @@
 
 ## [Unreleased]
 
-## [0.8.0] - 2026-06-20
-
-### Added
-
-- qtcloud/market.md：量潮云市场营销章程（定位与获客策略、内容营销、活动营销、数字营销、数据评估）
-- qtcloud/customer.md：量潮云客户关系章程（客户接入、客户成功、客户支持、客户反馈、客户数据管理）
-- qtcloud/brand.md：量潮云品牌管理章程（品牌标识、视觉系统、品牌调性、品牌使用权限、品牌维护）
-
-### Added
-
-- qtcloud/share.md：量潮云开源管理章程（开源策略、仓库管理、贡献管理、版本与发布）
+## [0.6.9] - 2026-06-20
 
 ### Added
 
 - qtcloud/business.md：量潮云定制化方案业务章程（商机与需求、方案与报价、商务谈判、数据与交付）
-- myst.yml：量潮云目录注册 business.md
+- qtcloud/share.md：量潮云开源管理章程（开源策略、仓库管理、贡献管理、版本与发布）
+- qtcloud/market.md：量潮云市场营销章程（定位与获客策略、内容营销、活动营销、数字营销、数据评估）
+- qtcloud/customer.md：量潮云客户关系章程（客户接入、客户成功、客户支持、客户反馈、客户数据管理）
+- qtcloud/brand.md：量潮云品牌管理章程（品牌标识、视觉系统、品牌调性、品牌使用权限、品牌维护）
+- myst.yml：量潮云目录注册 business.md share.md market.md customer.md brand.md
 
 ### Changed
 
