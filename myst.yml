@@ -43,6 +43,7 @@ project:
         - file: human/recruitment.md
         - file: human/onboarding.md
         - file: human/resignation.md
+        - file: qtrecurit/audit.md
     - title: 项目
       children:
         - file: project/index.md
