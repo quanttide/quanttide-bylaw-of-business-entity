@@ -23,6 +23,7 @@ docs/          所有文档
 scripts/       辅助脚本
 src/            单应用源代码（与 apps/ 二选一）
 apps/           多应用子模块（与 src/ 二选一）
+tests/          测试文件
 manifests/      部署清单
 ```
 
