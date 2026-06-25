@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
-## [0.7.5] - 2026-06-20
+## [0.7.6] - 2026-06-26
+
+### Changed
+
+- devops/code.md：仓库目录结构清单添加 tests/ 目录
 
 ### Changed
 
