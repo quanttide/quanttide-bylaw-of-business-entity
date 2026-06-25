@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.7] - 2026-06-26
+
+### Changed
+
+- devops/code.md：tests/ 拆分为单元测试，新增 integrated_tests/ 集成测试
+
 ## [0.7.6] - 2026-06-26
 
 ### Changed
