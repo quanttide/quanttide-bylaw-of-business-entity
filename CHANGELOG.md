@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [0.7.8] - 2026-06-26
+
+### Added
+
+- qtdata/data.md：量潮数据数据工程章程（数据处理类别、数据蓝图）
+- qtdata/write.md：量潮数据技术写作章程（用户文档、开发者文档、质量标准）
+- myst.yml：量潮数据目录新增 data.md、write.md
+
 ## [0.7.7] - 2026-06-26
 
 ### Changed
