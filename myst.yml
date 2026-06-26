@@ -30,6 +30,8 @@ project:
         - file: qtdata/support.md
         - file: qtdata/asset.md
         - file: qtdata/audit.md
+        - file: qtdata/data.md
+        - file: qtdata/write.md
     - title: 组织管理
       children:
         - file: organization/rank.md
