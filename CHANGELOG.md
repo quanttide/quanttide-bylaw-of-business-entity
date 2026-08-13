@@ -4,6 +4,8 @@
 
 ### Added
 
+- human/training.md：新增量潮科技培训工作章程
+- myst.yml：人力资源目录新增 training.md
 - business/payment-engineering.md：将量潮支付工程意图整理为《量潮科技支付工程章程》
 - myst.yml：商务管理目录新增《量潮科技支付工程章程》入口
 
