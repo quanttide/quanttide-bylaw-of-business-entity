@@ -57,6 +57,8 @@ project:
     - title: 商务管理
       children:
         - file: business/quotation.md
+        - url: https://docs.quanttide.com/quanttide-intention-of-payment-engineering/
+          title: 量潮支付工程意图
         - file: business/negotiation.md
     - title: 沟通管理
       children:
