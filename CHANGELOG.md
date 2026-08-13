@@ -4,8 +4,8 @@
 
 ### Added
 
-- business/payment-engineering.md：新增量潮支付工程意图页面
-- myst.yml：商务管理目录新增量潮支付工程意图页面入口
+- business/payment-engineering.md：将量潮支付工程意图整理为《量潮科技支付工程章程》
+- myst.yml：商务管理目录新增《量潮科技支付工程章程》入口
 
 ## [0.7.8] - 2026-06-26
 
