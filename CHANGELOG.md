@@ -4,6 +4,9 @@
 
 ### Added
 
+- qtcloud/metering.md：新增量潮云计量计费章程
+- myst.yml：量潮云目录新增计量计费章程入口
+- qtcloud/index.md：量潮云章程体系新增计量计费章程
 - human/training.md：新增量潮科技培训工作章程
 - myst.yml：人力资源目录新增 training.md
 - business/payment-engineering.md：将量潮支付工程意图整理为《量潮科技支付工程章程》

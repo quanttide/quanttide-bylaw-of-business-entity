@@ -81,6 +81,7 @@ project:
         - file: qtcloud/devops.md
         - file: qtcloud/data.md
         - file: qtcloud/knowl.md
+        - file: qtcloud/metering.md
         - file: qtcloud/sales.md
         - file: qtcloud/business.md
         - file: qtcloud/share.md
