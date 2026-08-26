@@ -11,7 +11,7 @@
 - myst.yml：人力资源目录新增 training.md
 - business/payment-engineering.md：将量潮支付工程意图整理为《量潮科技支付工程章程》
 - myst.yml：商务管理目录新增《量潮科技支付工程章程》入口
-- docs/format.md：移除（文档格式章程迁移至 quanttide-docs/format/index.md，升级为量潮社区约定）
+- docs/format.md：移除（文档格式章程迁移至 quanttide-bylaw-of-document-engineering/format/index.md，升级为量潮社区约定）
 - myst.yml：移除「文档格式」目录入口
 
 ## [0.7.8] - 2026-06-26
