@@ -1,7 +1,7 @@
 version: 1
 project:
   title: 量潮科技工作章程
-  description: 量潮科技内部章程，涵盖组织制度、人力资源、客户管理、商务管理、沟通管理、审计制度、写作规范
+  description: 量潮科技内部章程，涵盖人力资源、客户管理、商务管理、沟通管理、审计制度、写作规范
   keywords:
     - 量潮科技
     - 章程
@@ -32,12 +32,6 @@ project:
         - file: qtdata/audit.md
         - file: qtdata/data.md
         - file: qtdata/write.md
-    - title: 组织管理
-      children:
-        - file: organization/rank.md
-        - file: organization/department/deliberation-institution.md
-        - file: organization/position/company-representative.md
-        - file: organization/position/secretary.md
     - title: 人力资源
       children:
         - file: human/index.md

@@ -28,14 +28,6 @@
 │   ├── recruitment.md       #   招聘工作章程
 │   ├── onboarding.md        #   入职工作章程
 │   └── resignation.md       #   离职工作章程
-├── organization/            # 组织管理
-│   ├── rank/                #   职级管理
-│   │   └── index.md
-│   ├── department/          #   部门制度
-│   │   └── deliberation-institution.md
-│   └── position/            #   职位制度
-│       ├── company-representative.md  # 法定代表人章程
-│       └── secretary.md               # 公司秘书章程
 ├── project/                 # 项目管理
 │   └── audit.md             #   项目质量审计章程
 ├── qtclass/                 # 量潮课堂
