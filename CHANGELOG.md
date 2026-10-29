@@ -358,3 +358,4 @@
 - 写作格式章程（format.md）
 - 客户支持章程（custom_support.md）
 - 议事章程（deliberation.md）
+- 移除 qtrecurit 招聘审计章程：迁移至量潮创新联盟章程仓（quanttide-bylaw-of-innovation-alliance）
