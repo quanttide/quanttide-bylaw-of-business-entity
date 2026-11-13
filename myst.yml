@@ -1,14 +1,13 @@
 version: 1
 project:
   title: 量潮科技工作章程
-  description: 量潮科技内部章程，涵盖人力资源、客户管理、商务管理、沟通管理、审计制度、写作规范
+  description: 量潮科技内部章程，涵盖人力资源、客户管理、沟通管理、审计制度、写作规范
   keywords:
     - 量潮科技
     - 章程
     - 组织
     - 人力资源
     - 客户管理
-    - 商务管理
     - 沟通管理
     - 审计
     - 写作规范
@@ -49,11 +48,6 @@ project:
     - title: 客户管理
       children:
         - file: customer/rank.md
-    - title: 商务管理
-      children:
-        - file: business/quotation.md
-        - file: business/payment-engineering.md
-        - file: business/negotiation.md
     - title: 沟通管理
       children:
         - file: connect/index.md

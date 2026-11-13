@@ -14,6 +14,10 @@
 - docs/format.md：移除（文档格式章程迁移至 quanttide-bylaw-of-document-engineering/format/index.md，升级为量潮社区约定）
 - myst.yml：移除「文档格式」目录入口
 
+### Changed
+
+- 商务章程三篇（quotation、negotiation、payment-engineering）迁移至 quanttide-bylaw-of-business-development（intro/）：商务章程移出本仓，归商务拓展域章程；`myst.yml` 移除「商务管理」导航与关键词、description 同步，`README.md` 目录树移除 `business/` 条目
+
 ## [0.7.8] - 2026-06-26
 
 ### Added

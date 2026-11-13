@@ -14,8 +14,6 @@
 ├── audit/                   # 审计制度
 │   ├── index.md             #   审计总纲
 │   └── audit.md             #   元审计章程
-├── business/                # 商务管理
-│   └── quoting.md           #   商务报价章程
 ├── connect/                 # 沟通管理
 │   └── index.md             #   沟通管理章程
 ├── customer/                # 客户管理
