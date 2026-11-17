@@ -28,7 +28,9 @@
 │   ├── onboarding.md        #   入职工作章程
 │   └── resignation.md       #   离职工作章程
 ├── project/                 # 项目管理
-│   └── audit.md             #   项目质量审计章程
+│   ├── index.md             #   项目管理总纲
+│   ├── scope.md             #   项目范围章程
+│   └── quality.md           #   项目质量章程
 └── qtdata/                  # 量潮数据
     ├── index.md             #   工作章程
     ├── org.md               #   岗位架构
