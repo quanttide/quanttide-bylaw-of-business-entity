@@ -11,12 +11,6 @@
 ├── README.md                # 项目说明（本文档）
 ├── ROADMAP.md               # 产品路线图
 ├── myst.yml                 # MyST 文档站点配置
-├── audit/                   # 审计制度
-│   ├── index.md             #   审计总纲
-│   ├── audit.md             #   元审计章程
-│   ├── delib.md             #   议事审计章程
-│   ├── qtclass.md           #   量潮课堂业务审计章程
-│   └── qtdata.md            #   量潮数据审计章程
 ├── connect/                 # 沟通管理
 │   └── index.md             #   沟通管理章程
 ├── customer/                # 客户管理

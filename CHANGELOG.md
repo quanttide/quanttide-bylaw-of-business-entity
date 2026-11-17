@@ -16,6 +16,7 @@
 
 ### Changed
 
+- 审计章程五篇（index、audit、delib、qtclass、qtdata）迁移至 quanttide-bylaw-of-audit-management：`index.md` 入该仓根，qt* 业务线入 `business/`、审计与议事入 `function/`；`README.md` 目录树移除 `audit/` 条目，`CONTRIBUTING.md` 归置约定同步
 - 商务章程三篇（quotation、negotiation、payment-engineering）迁移至 quanttide-bylaw-of-business-development（intro/）：商务章程移出本仓，归商务拓展域章程；`myst.yml` 移除「商务管理」导航与关键词、description 同步，`README.md` 目录树移除 `business/` 条目
 
 ## [0.7.8] - 2026-06-26

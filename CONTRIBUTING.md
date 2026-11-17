@@ -8,7 +8,6 @@
 |------|------|------|
 | 目录名 `snake_case` | 一个业务域一个目录，使用小写字母+下划线 | `human/`、`qtdata/` |
 | 文件名 `snake_case` | 章程文件使用小写字母+下划线 | `company-representative.md`、`deliberation-institution.md` |
-| 总纲用 `index.md` | 业务域总纲/索引统一命名 | `connect/index.md`、`audit/index.md` |
-| 审计章程归 `audit/` | 各域审计章程统一收入 `audit/` 目录，以域名命名 | `audit/qtclass.md`、`audit/qtdata.md` |
+| 总纲用 `index.md` | 业务域总纲/索引统一命名 | `connect/index.md`、`project/index.md` |
 
 完整目录结构见 `README.md`。
