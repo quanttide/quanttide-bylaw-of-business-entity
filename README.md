@@ -13,13 +13,14 @@
 ├── myst.yml                 # MyST 文档站点配置
 ├── audit/                   # 审计制度
 │   ├── index.md             #   审计总纲
-│   └── audit.md             #   元审计章程
+│   ├── audit.md             #   元审计章程
+│   ├── delib.md             #   议事审计章程
+│   ├── qtclass.md           #   量潮课堂业务审计章程
+│   └── qtdata.md            #   量潮数据审计章程
 ├── connect/                 # 沟通管理
 │   └── index.md             #   沟通管理章程
 ├── customer/                # 客户管理
 │   └── rank.md              #   客户分级章程
-├── delib/                   # 议事制度
-│   └── audit.md             #   议事审计章程
 ├── human/                   # 人力资源
 │   ├── index.md             #   人力资源总纲
 │   ├── performance.md       #   绩效章程
@@ -28,13 +29,10 @@
 │   └── resignation.md       #   离职工作章程
 ├── project/                 # 项目管理
 │   └── audit.md             #   项目质量审计章程
-├── qtclass/                 # 量潮课堂
-│   └── audit.md             #   业务审计章程
 └── qtdata/                  # 量潮数据
     ├── index.md             #   工作章程
     ├── org.md               #   岗位架构
     ├── project.md           #   项目交付章程
     ├── support.md           #   客户支持章程
-    ├── asset.md             #   资产管理章程
-    └── audit.md             #   审计章程
+    └── asset.md             #   资产管理章程
 ```

@@ -28,7 +28,7 @@ project:
         - file: qtdata/project.md
         - file: qtdata/support.md
         - file: qtdata/asset.md
-        - file: qtdata/audit.md
+        - file: audit/qtdata.md
         - file: qtdata/data.md
         - file: qtdata/write.md
     - title: 人力资源
