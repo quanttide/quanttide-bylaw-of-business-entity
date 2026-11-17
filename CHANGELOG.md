@@ -4,6 +4,7 @@
 
 ### Added
 
+- ROADMAP.md：新增路线图——对外谈判（章程作框架合同基础）与内部管理迁出（归 quanttide-bylaw 领域仓）双线
 - qtcloud/metering.md：新增量潮云计量计费章程
 - myst.yml：量潮云目录新增计量计费章程入口
 - qtcloud/index.md：量潮云章程体系新增计量计费章程
