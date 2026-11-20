@@ -74,6 +74,9 @@ project:
         - file: qtcloud/media.md
         - file: qtcloud/customer.md
         - file: qtcloud/brand.md
+    - title: 量潮课堂
+      children:
+        - file: qtclass/practice.md
 
 site:
   template: book-theme

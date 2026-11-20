@@ -4,6 +4,7 @@
 
 ### Added
 
+- qtclass/practice.md：量潮课堂教学实践章程——自语境仓库归位，合同格式转章程格式（总则→主体→附则、**第X条** 条款式、规范用语）；维护要点与三附件迁工作手册 `qtclass/practice/`
 - ROADMAP.md：新增路线图——对外谈判（章程作框架合同基础）与内部管理迁出（归 quanttide-bylaw 领域仓）双线
 - qtcloud/metering.md：新增量潮云计量计费章程
 - myst.yml：量潮云目录新增计量计费章程入口
